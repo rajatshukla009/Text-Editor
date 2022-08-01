@@ -1,3 +1,5 @@
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/PYT?color=green&label=PYTHON&style=plastic)
+
 Text-Editor
 text editors made in python
 
